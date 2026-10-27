@@ -81,6 +81,6 @@ Marks: 87.5
 
 ## 👩‍💻 Author
 
-**Kanishka Tripathi**
+**Anisha Pachar**
 
-GitHub: [Kanishka-Tripathi2007](https://github.com/Kanishka-Tripathi2007)
+GitHub: https://github.com/anishaa359
